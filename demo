@@ -1,0 +1,18 @@
+from Hogwarts.sdet.Student import Student
+
+def num():
+  print(2+2)
+
+print('D:\\name\\liaoliao')
+print(r':\name\pangding')
+print('py''thon')
+x='abc'
+print(f'c\\name\{x}')
+
+print("c\\name\\{}\\{}".format(x,123))
+
+print("c\\name\\{y}\\{x}".format(x=x,y=123))
+
+squares=[1,4,9]
+
+Student()
